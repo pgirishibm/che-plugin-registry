@@ -123,7 +123,7 @@ plugins:
         https://download.jboss.org/jbosstools/vscode/3rdparty/vscode-intelephense/vscode-intelephense-client-1.5.4.vsix
   - repository:
       url: 'https://github.com/Microsoft/vscode-python'
-      revision: 2020.7.94776
+      revision: 2020.2.62710
     featured: true
     sidecar:
       directory: python
@@ -133,7 +133,7 @@ plugins:
       cpuRequest: 30m
     extensions:
       - >-
-        https://github.com/microsoft/vscode-python/releases/download/2020.7.94776/ms-python-release.vsix
+        https://github.com/microsoft/vscode-python/releases/download/2020.2.62710/ms-python-release.vsix
   - repository:
       url: 'https://github.com/asciidoctor/asciidoctor-vscode'
       revision: v2.8.7
